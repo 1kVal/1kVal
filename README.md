@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1kVal
-- A product manager working with start-up go hepl thme build MVPs
+- A product manager working with start-up and helping them build MVPs
 - 👀 I’m interested in UX and No-code
 - 🌱 I’m currently learning Figma
 - 📫 Reach me here : valentin@1kubator.com or through my website valentin-pm.com 
